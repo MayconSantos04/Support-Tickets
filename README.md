@@ -2,7 +2,7 @@
 
 API para gerenciamento de tickets de suporte técnico desenvolvida com Node.js. O projeto permite criar, listar, atualizar, fechar e excluir tickets de suporte.
 
-Este projeto foi desenvolvido com base nas aulas da :contentReference[oaicite:0]{index=0} como parte dos meus estudos em Backend.
+Este projeto foi desenvolvido com base nas aulas da Rocketseat como parte dos meus estudos em Backend.
 
 ## Tecnologias
 
