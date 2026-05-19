@@ -1,5 +1,4 @@
 # Support Ticket API
----
 
 API para gerenciamento de tickets de suporte técnico desenvolvida com Node.js. O projeto permite criar, listar, atualizar, fechar e excluir tickets de suporte.
 
@@ -20,16 +19,7 @@ Este projeto foi desenvolvido com base nas aulas da :contentReference[oaicite:0]
 - Fechar tickets
 - Excluir tickets
 
-## Estrutura do ticket
-
-```json id="58u3v8"
-{
-  "id": "uuid",
-  "equipment": "Notebook Dell",
-  "description": "Não liga",
-  "user_name": "João",
-  "status": "open"
-}
+---
 
 ## Como executar o projeto
 
@@ -42,3 +32,15 @@ Este projeto foi desenvolvido com base nas aulas da :contentReference[oaicite:0]
 
 - Insomnia
 - Postman
+  
+## Estrutura do ticket
+
+```json id="58u3v8"
+{
+  "id": "uuid",
+  "equipment": "Notebook Dell",
+  "description": "Não liga",
+  "user_name": "João",
+  "status": "open"
+}
+
