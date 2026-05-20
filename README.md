@@ -37,10 +37,12 @@ Este projeto foi desenvolvido com base nas aulas da Rocketseat como parte dos me
 
 ```json id="58u3v8"
 {
-  "id": "uuid",
-  "equipment": "Notebook Dell",
-  "description": "Não liga",
-  "user_name": "João",
-  "status": "open"
+  "id": "f6021ca4-8ba1-4d22-aa60-c0e1d62787b9",
+  "equipment": "Notebook",
+  "description": "Notebook com tela rosada.",
+  "user_name": "Ana Maria",
+  "status": "closed",
+  "created_at": "2026-05-19T18:46:21.832Z",
+  "updated_at": "2026-05-19T18:46:21.832Z"
 }
 
